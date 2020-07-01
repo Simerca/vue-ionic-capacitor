@@ -1,0 +1,13 @@
+{
+  "appId": "my.alert.previmeteo",
+  "appName": "Previ Alert Meteo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

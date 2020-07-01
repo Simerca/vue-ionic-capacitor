@@ -1,7 +1,18 @@
 <template>
   <div class="hello">
+
+    <ion-card>
+      <ion-card-header>
+        <ion-card-subtitle>Awesome Subtitle</ion-card-subtitle>
+        <ion-card-title>Awesome Title</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        Awesome content
+      </ion-card-content>
+    </ion-card>
     <h1>{{ msg }}</h1>
     <p>
+      Je t'assure que ca vaut le coup test
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
